@@ -27,7 +27,7 @@ https://drive.google.com/drive/folders/169hlzyosNX1IJAdMBxbc-mRZ2zkqtQEH?usp=sha
 
 ## Team Members
 
-1. Ashwin Alaparthi 
+1. Praneet Kandregula
 2. Raghav Roy 
 3. Ritik Hariani 
 4. Sourav Raveendran 
